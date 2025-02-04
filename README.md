@@ -1,2 +1,1 @@
-# bookbot
-Test python book reader
+BookBot is my first project!
